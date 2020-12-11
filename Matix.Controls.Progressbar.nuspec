@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package >
   <metadata>
-    <id>Matix.Controls.Progressbar</id>
-    <version>1.0.5.20346</version>
-    <title>Matix.Controls.progressbar</title>
-    <authors>Matix</authors>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
-    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
+    <projectUrl>https://github.com/Matix-Media/Matix.Controls.Progressbar</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/Matix-Media/Matix.Controls.Progressbar/master/icon.png</iconUrl>
     <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <releaseNotes>First Release. Published NuGet-Package</releaseNotes>
     <copyright>$copyright$</copyright>
-    <tags>Tag1 Tag2</tags>
+    <tags>ProgressBar, Progress, Percent</tags>
   </metadata>
 </package>
